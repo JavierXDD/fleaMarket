@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DatasourceManager xmlVersion="20140501" releaseVersion="7.1.1">
+<ConnectionMap>
+<Connection name="fleaMarket" class="com.fr.data.impl.JDBCDatabaseConnection">
+<DatabaseAttr/>
+<JDBCDatabaseAttr url="jdbc:mysql://127.0.0.1:3306/fleaMarket" driver="com.mysql.jdbc.Driver" user="root" password="root" encryptPassword="true">
+<DBCPAttr/>
+</JDBCDatabaseAttr>
+</Connection>
+
+</ConnectionMap>
+</DatasourceManager>

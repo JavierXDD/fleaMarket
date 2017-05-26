@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fsconfig xmlVersion="20140501" releaseVersion="7.1.0" useFS="true" homePageURL="/WebReport/ReportServer?reportlet=demo/analytics/product.cpt" loginTitle="数据决策系统" isLoginPageImg="false" hasNavigation="true" mobiledevbind="false" style="lightblue" gradeAuthority="true" editReportAuthority="false" dataConnectionAuthority="false" controlType="0">
+<hsqlControl hsqlSetting="{&quot;encrypt&quot;:0,&quot;myencrypt&quot;:&quot;&quot;}"/>
+<systemManagerFavoriteAndADHOCReport>
+<sysFavorite>
+<Parameters/>
+<DSName>
+<![CDATA[]]></DSName>
+<ColumnNames>
+<![CDATA[id,,.,,type,,.,,entryid]]></ColumnNames>
+<ColumnTypes>
+<![CDATA[java.lang.String,java.lang.Integer,java.lang.String]]></ColumnTypes>
+</sysFavorite>
+<sysADHOCNode>
+<Parameters/>
+<DSName>
+<![CDATA[]]></DSName>
+<ColumnNames>
+<![CDATA[id,,.,,path,,.,,reportName,,.,,createTime,,.,,description]]></ColumnNames>
+<ColumnTypes>
+<![CDATA[java.lang.String,java.lang.String,java.lang.String,com.fr.function.DATE,java.lang.String]]></ColumnTypes>
+</sysADHOCNode>
+<sysBINode>
+<Parameters/>
+<DSName>
+<![CDATA[]]></DSName>
+<ColumnNames>
+<![CDATA[id,,.,,path,,.,,reportName,,.,,createTime,,.,,modifyTime,,.,,type,,.,,description]]></ColumnNames>
+<ColumnTypes>
+<![CDATA[java.lang.String,java.lang.String,java.lang.String,com.fr.function.DATE,com.fr.function.DATE,java.lang.String,java.lang.String]]></ColumnTypes>
+</sysBINode>
+<sysTaskNode>
+<Parameters/>
+<DSName>
+<![CDATA[]]></DSName>
+<ColumnNames>
+<![CDATA[id,,.,,taskInfoID]]></ColumnNames>
+<ColumnTypes>
+<![CDATA[java.lang.String,java.lang.String]]></ColumnTypes>
+</sysTaskNode>
+</systemManagerFavoriteAndADHOCReport>
+<navigationImages>
+<navigationImg type="01" cls="fs_csview_naviimgs4" id=""/>
+<navigationImg type="02" cls="fs_csview_naviimgs9" id=""/>
+<navigationImg type="04" cls="fs_csview_naviimgs3" id=""/>
+<navigationImg type="05" cls="fs_csview_naviimgs8" id=""/>
+<navigationImg type="031" cls="fs_csview_naviimgs7" id=""/>
+<navigationImg type="035" cls="fs_csview_naviimgs10" id=""/>
+<navigationImg type="015" cls="fs_csview_naviimgs5" id=""/>
+</navigationImages>
+</fsconfig>

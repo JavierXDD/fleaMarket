@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomRegManager xmlVersion="20111025" releaseVersion="6.5.6">
+<customReg>
+<![CDATA[星期日,星期一,星期二,星期三,星期四,星期五,星期六]]></customReg>
+<customReg>
+<![CDATA[Sun,Mon,Tue,Wed,Thu,Fri,Sat]]></customReg>
+<customReg>
+<![CDATA[Sunday,Monday,Tuesday,Wednesday,Thursday,Friday,Saturday]]></customReg>
+<customReg>
+<![CDATA[Jan,Feb,Mar,Apr,May,June,July,Aug,Sept,Oct,Nov,Dec]]></customReg>
+<customReg>
+<![CDATA[January,February,March,April,May,June,July,Aguest,September,October,November,December]]></customReg>
+<customReg>
+<![CDATA[日,一,二,三,四,五,六]]></customReg>
+<customReg>
+<![CDATA[一月,二月,三月,四月,五月,六月,七月,八月,九月,十月,十一月,十二月]]></customReg>
+<customReg>
+<![CDATA[第一季,第二季,第三季,第四季,第五季]]></customReg>
+<customReg>
+<![CDATA[正月,二月,三月,四月,五月,六月,七月,八月,九月,十月,十一月,腊月]]></customReg>
+<customReg>
+<![CDATA[子,丑,寅,卯,辰,巳,午,未,申,酉,戌,亥]]></customReg>
+<customReg>
+<![CDATA[甲,乙,丙,丁,戊,己,庚,辛,壬,癸]]></customReg>
+<customReg>
+<![CDATA[初中,高中,职高,中专,大专,大本,硕士,博士]]></customReg>
+</CustomRegManager>
