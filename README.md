@@ -1,5 +1,5 @@
 # fleaMarket
-跳蚤市场，二手交易网站  
+跳蚤市场，二手交易网站  
 Demo：http://47.94.9.151:8080/WenLiFleaMarket 
 
 下面是阿里部署的经验，记录一下
